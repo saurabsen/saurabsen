@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Saurab Sen<br>I work as Software Developer and UIUX Designer at XtractOne Tech.<br>Software developer with 4 years of experience in building web and mobile applications using modern technologies. I have experience in designing, developing, and testing software solutions. Also experienced in working with popular frameworks such as React, Angular, MongoDB, StencilJs, and Node.js.
+I am Saurab Sen<br>I work as Senior Software Developer(SDE3) at Omnifi.ai .<br>Software developer with 6+ years of experience in building web and mobile applications using modern technologies. I have experience in designing, developing, and testing software solutions. Also experienced in working with popular frameworks such as React, Angular, MongoDB, StencilJs, and Node.js.
 
 
 ## 🌐 Socials:
